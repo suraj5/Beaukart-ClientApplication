@@ -1,0 +1,1 @@
+I cant disclose more than this because it is Client Project.Here we are retrieving data from parse.com and showing.There will a seperate web interface written in node.js where the admin enter details of the products in parse.com database
